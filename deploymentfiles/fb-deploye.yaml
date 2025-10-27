@@ -23,4 +23,4 @@ spec:
     spec:
       containers:
         - name: fb-pod-cont
-          image: angitidevika/devops1:4
+          image: angitidevika/devops1:5
